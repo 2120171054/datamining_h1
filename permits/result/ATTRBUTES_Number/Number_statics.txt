@@ -1,0 +1,47 @@
+Data abstract of attribute Number of Existing Stories:
+  Maximium:     78
+  Minimium:     0
+  Average:      5.7058
+  Median:       3
+  Quartile:     2, 4
+  Missing data: 42784
+ 
+Data abstract of attribute Number of Proposed Stories:
+  Maximium:     78
+  Minimium:     0
+  Average:      5.745
+  Median:       3
+  Quartile:     2, 4
+  Missing data: 42868
+ 
+Data abstract of attribute Estimated Cost:
+  Maximium:     537958646
+  Minimium:     1
+  Average:      168955.4433
+  Median:       11000
+  Quartile:     3300, 35000
+  Missing data: 38066
+ 
+Data abstract of attribute Revised Cost:
+  Maximium:     780500000
+  Minimium:     0
+  Average:      132856.1865
+  Median:       7000
+  Quartile:     1, 28710
+  Missing data: 6066
+ 
+Data abstract of attribute Existing Units:
+  Maximium:     1907
+  Minimium:     0
+  Average:      15.6662
+  Median:       1
+  Quartile:     1, 4
+  Missing data: 51538
+ 
+Data abstract of attribute Proposed Units:
+  Maximium:     1911
+  Minimium:     0
+  Average:      16.511
+  Median:       2
+  Quartile:     1, 4
+  Missing data: 50911

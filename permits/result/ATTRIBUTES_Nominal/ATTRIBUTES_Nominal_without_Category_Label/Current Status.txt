@@ -1,0 +1,16 @@
+frequence of Current Status attribute
+    Type Description                     Count                   Percent
+              appeal                         2                      0.00%
+            approved                       733                      0.37%
+           cancelled                      1536                      0.77%
+            complete                     97077                     48.81%
+         disapproved                         2                      0.00%
+             expired                      1370                      0.69%
+               filed                     12043                      6.05%
+          incomplete                         2                      0.00%
+              issued                     83559                     42.01%
+           plancheck                        16                      0.01%
+          reinstated                       563                      0.28%
+             revoked                        50                      0.03%
+             suspend                       193                      0.10%
+           withdrawn                      1754                      0.88%

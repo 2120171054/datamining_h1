@@ -1,0 +1,4 @@
+frequence of TIDF Compliance attribute
+    Type Description                     Count                   Percent
+                   P                         1                     50.00%
+                   Y                         1                     50.00%

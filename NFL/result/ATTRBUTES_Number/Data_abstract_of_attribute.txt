@@ -1,0 +1,75 @@
+           attribute                Maximium      Minimium      Average         Median           Quartile           Missing data
+statistics of TimeUnder attribute
+           TimeUnder:                15.00000     0.00000       7.37420         7.00000       3.00000,11.00000          0.00000
+statistics of TimeSecs attribute
+            TimeSecs:               3600.00000   -900.00000    1695.26894       1800.00000    778.00000,2585.00000      224.00000
+statistics of PlayTimeDiff attribute
+        PlayTimeDiff:                943.00000    0.00000       20.57676        17.00000        5.00000,37.00000        444.00000
+statistics of yrdln attribute
+               yrdln:                50.00000     1.00000       28.48833        30.00000        20.00000,39.00000       840.00000
+statistics of yrdline100 attribute
+          yrdline100:                99.00000     1.00000       48.64408        49.00000         30.00000,70.00000      840.00000
+statistics of ydstogo attribute
+             ydstogo:                50.00000     0.00000        7.30940         9.00000         3.00000,10.00000        0.00000
+statistics of ydsnet attribute
+              ydsnet:                99.00000    -87.00000      25.94552         19.00000         5.00000,43.00000        0.00000
+statistics of Yards.Gained attribute
+        Yards.Gained:  99.00000         -74.00000          4.99422          1.00000, 0.00000  7.00000          0.00000
+statistics of AirYards attribute
+            AirYards:  84.00000         -70.00000          3.26401          0.00000, 0.00000  4.00000          0.00000
+statistics of YardsAfterCatch attribute
+     YardsAfterCatch:  90.00000         -81.00000          1.25260          0.00000, 0.00000  0.00000          0.00000
+statistics of Penalty.Yards attribute
+       Penalty.Yards:  66.00000         0.00000          0.61367          0.00000, 0.00000  0.00000          0.00000
+statistics of PosTeamScore attribute
+        PosTeamScore:  61.00000         0.00000          10.20142          7.00000, 2.00000  16.00000          26904.00000
+statistics of DefTeamScore attribute
+        DefTeamScore:  61.00000         0.00000          11.41448          10.00000, 3.00000  17.00000          26904.00000
+statistics of ScoreDiff attribute
+           ScoreDiff:  59.00000         -59.00000          -1.18659          0.00000, -7.00000  4.00000          24988.00000
+statistics of AbsScoreDiff attribute
+        AbsScoreDiff:  59.00000         0.00000          7.78354          7.00000, 3.00000  11.00000          26904.00000
+statistics of posteam_timeouts_pre attribute
+posteam_timeouts_pre:  3.00000         0.00000          2.52124          3.00000, 2.00000  3.00000          0.00000
+statistics of HomeTimeouts_Remaining_Pre attribute
+HomeTimeouts_Remaining_Pre:  3.00000         -3.00000          2.54048          3.00000, 2.00000  3.00000          0.00000
+statistics of AwayTimeouts_Remaining_Pre attribute
+AwayTimeouts_Remaining_Pre:  3.00000         -1.00000          2.51722          3.00000, 2.00000  3.00000          0.00000
+statistics of HomeTimeouts_Remaining_Post attribute
+HomeTimeouts_Remaining_Post:  3.00000         -3.00000          2.52012          3.00000, 2.00000  3.00000          0.00000
+statistics of AwayTimeouts_Remaining_Post attribute
+AwayTimeouts_Remaining_Post:  3.00000         -1.00000          2.49637          3.00000, 2.00000  3.00000          0.00000
+statistics of No_Score_Prob attribute
+       No_Score_Prob:  1.00000         0.00000          0.12782          0.02477, 0.00279  0.17251          176.00000
+statistics of Opp_Field_Goal_Prob attribute
+ Opp_Field_Goal_Prob:  0.36018         0.00000          0.09461          0.08309, 0.03460  0.14994          176.00000
+statistics of Opp_Safety_Prob attribute
+     Opp_Safety_Prob:  0.03146         0.00000          0.00249          0.00099, 0.00010  0.00385          176.00000
+statistics of Opp_Touchdown_Prob attribute
+  Opp_Touchdown_Prob:  0.49687         0.00000          0.13997          0.12403, 0.03983  0.22641          176.00000
+statistics of Field_Goal_Prob attribute
+     Field_Goal_Prob:  0.99460         0.00000          0.24391          0.23131, 0.15244  0.32613          176.00000
+statistics of Safety_Prob attribute
+         Safety_Prob:  0.01518         0.00000          0.00263          0.00299, 0.00188  0.00358          176.00000
+statistics of Touchdown_Prob attribute
+      Touchdown_Prob:  0.91296         0.00000          0.29594          0.31368, 0.19121  0.40768          176.00000
+statistics of ExPoint_Prob attribute
+        ExPoint_Prob:  0.99313         0.00000          0.02407          0.00000, 0.00000  0.00000          0.00000
+statistics of TwoPoint_Prob attribute
+       TwoPoint_Prob:  0.47350         0.00000          0.00070          0.00000, 0.00000  0.00000          0.00000
+statistics of ExpPts attribute
+              ExpPts:  6.50090         -3.83649          1.56541          1.25797, 0.32353  2.88205          176.00000
+statistics of EPA attribute
+                 EPA:  9.50801         -13.49414          0.01912          0.00000, -0.59903  0.56306          369.00000
+statistics of Home_WP_pre attribute
+         Home_WP_pre:  1.00000         0.00000          0.53449          0.53127, 0.32512  0.76923          24954.00000
+statistics of Away_WP_pre attribute
+         Away_WP_pre:  1.00000         0.00000          0.46596          0.46905, 0.23141  0.67553          24954.00000
+statistics of Home_WP_post attribute
+        Home_WP_post:  1.00000         0.00000          0.53479          0.53361, 0.32170  0.77288          26587.00000
+statistics of Away_WP_post attribute
+        Away_WP_post:  1.00000         0.00000          0.46561          0.46667, 0.22769  0.67883          26587.00000
+statistics of Win_Prob attribute
+            Win_Prob:  1.00000         0.00000          0.50132          0.50447, 0.27647  0.72548          25009.00000
+statistics of WPA attribute
+                 WPA:  0.99485         -0.99721          0.00210          0.00000, -0.01473  0.01468          5541.00000

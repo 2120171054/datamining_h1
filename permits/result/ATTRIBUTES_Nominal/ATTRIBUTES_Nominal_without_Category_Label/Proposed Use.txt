@@ -1,0 +1,96 @@
+frequence of Proposed Use attribute
+    Type Description                     Count                   Percent
+   1 family dwelling                     46346                     29.62%
+   2 family dwelling                     22061                     14.10%
+   accessory cottage                         5                      0.00%
+ adult entertainment                         5                      0.00%
+   ambulance service                         4                      0.00%
+    amusement center                         8                      0.01%
+ animal sale or care                        60                      0.04%
+             antenna                       115                      0.07%
+          apartments                     43032                     27.50%
+    artist live/work                       443                      0.28%
+        auto repairs                       239                      0.15%
+    automobile sales                        74                      0.05%
+ barber/beauty salon                       258                      0.16%
+          bath house                         5                      0.00%
+  building materials                         6                      0.00%
+            car wash                         5                      0.00%
+ chemical processing                         9                      0.01%
+          child care                        25                      0.02%
+  christmas tree lot                        18                      0.01%
+              church                       434                      0.28%
+clinics-medic/dental                       678                      0.43%
+                club                       125                      0.08%
+   convalescent home                        16                      0.01%
+dairies/dairy equip.                         1                      0.00%
+          dance hall                        22                      0.01%
+     day care center                        40                      0.03%
+day care home 7 - 12                        11                      0.01%
+ day care home gt 12                        83                      0.05%
+  day care home lt 7                        11                      0.01%
+   day care, non-res                        59                      0.04%
+        dry cleaners                        36                      0.02%
+fence/retaining wall                        22                      0.01%
+ filling/service stn                        99                      0.06%
+food/beverage hndlng                      5053                      3.23%
+       garment shops                        24                      0.02%
+          greenhouse                        72                      0.05%
+health studios & gym                       332                      0.21%
+            hospital                        32                      0.02%
+                jail                         6                      0.00%
+  laundry/laundromat                        56                      0.04%
+ lending institution                       239                      0.15%
+             library                        33                      0.02%
+       manufacturing                       436                      0.28%
+      massage parlor                       104                      0.07%
+  meat/produce marts                         2                      0.00%
+ misc group residns.                       119                      0.08%
+            mortuary                        12                      0.01%
+    moving & storage                        26                      0.02%
+        muni carbarn                        35                      0.02%
+muni driver restroom                         5                      0.00%
+              museum                       139                      0.09%
+           nite club                        65                      0.04%
+      not applicable                         1                      0.00%
+     nursery(floral)                        25                      0.02%
+   nursing home gt 6                        14                      0.01%
+  nursing home lte 6                         4                      0.00%
+nursing home non amb                        11                      0.01%
+              office                     23962                     15.31%
+           orphanage                         1                      0.00%
+         paint store                         6                      0.00%
+         parking lot                        67                      0.04%
+  phone xchnge/equip                        38                      0.02%
+         power plant                        82                      0.05%
+      printing plant                        34                      0.02%
+prkng garage/private                       102                      0.07%
+ prkng garage/public                       175                      0.11%
+   prson'l svc tutor                        15                      0.01%
+public assmbly other                       228                      0.15%
+    r-3(dwg) nursing                         4                      0.00%
+ radio & tv stations                        36                      0.02%
+     recreation bldg                       207                      0.13%
+   residential hotel                      1002                      0.64%
+        retail sales                      5079                      3.25%
+   roofing materials                         1                      0.00%
+              school                       748                      0.48%
+        sewage plant                         6                      0.00%
+sfpd or sffd station                        98                      0.06%
+                sign                         6                      0.00%
+social care facility                        47                      0.03%
+        sound studio                        28                      0.02%
+             stadium                         3                      0.00%
+        storage shed                        79                      0.05%
+       storage tanks                         5                      0.00%
+       swimming pool                         6                      0.00%
+              temple                         2                      0.00%
+             theater                       189                      0.12%
+ tourist hotel/motel                      1601                      1.02%
+               tower                        11                      0.01%
+          vacant lot                       385                      0.25%
+warehouse, furniture                        65                      0.04%
+warehouse,no frnitur                       674                      0.43%
+     wholesale sales                        40                      0.03%
+ workshop commercial                       219                      0.14%
+workshop residential                        10                      0.01%

@@ -1,0 +1,3 @@
+frequence of Fire Only Permit attribute
+    Type Description                     Count                   Percent
+                   Y                     18827                    100.00%

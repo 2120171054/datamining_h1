@@ -1,0 +1,2 @@
+frequence of retail sales attribute
+    Type Description                     Count                   Percent

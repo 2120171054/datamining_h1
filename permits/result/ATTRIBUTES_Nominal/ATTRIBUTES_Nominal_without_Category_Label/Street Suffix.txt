@@ -1,0 +1,23 @@
+frequence of Street Suffix attribute
+    Type Description                     Count                   Percent
+                  Al                        83                      0.04%
+                  Av                     43219                     22.04%
+                  Bl                      3555                      1.81%
+                  Cr                        97                      0.05%
+                  Ct                       667                      0.34%
+                  Dr                      3267                      1.67%
+                  Hl                         1                      0.00%
+                  Hy                       240                      0.12%
+                  Ln                       354                      0.18%
+                  No                         2                      0.00%
+                  Pk                       128                      0.07%
+                  Pl                       538                      0.27%
+                  Pz                       210                      0.11%
+                  Rd                       389                      0.20%
+                  Rw                         5                      0.00%
+                  So                         2                      0.00%
+                  St                    138358                     70.54%
+                  Sw                         2                      0.00%
+                  Tr                      1466                      0.75%
+                  Wk                         9                      0.00%
+                  Wy                      3540                      1.80%

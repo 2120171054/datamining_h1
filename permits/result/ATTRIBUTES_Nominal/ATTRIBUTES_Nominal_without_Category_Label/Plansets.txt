@@ -1,0 +1,10 @@
+frequence of Plansets attribute
+    Type Description                     Count                   Percent
+                   0                     63244                     39.14%
+                   1                         2                      0.00%
+                   2                     98088                     60.70%
+                  20                         1                      0.00%
+                   3                       250                      0.15%
+                   4                         3                      0.00%
+                   6                         2                      0.00%
+                9000                         1                      0.00%

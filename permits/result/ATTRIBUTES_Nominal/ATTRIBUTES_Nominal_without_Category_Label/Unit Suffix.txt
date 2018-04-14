@@ -1,0 +1,165 @@
+frequence of Unit Suffix attribute
+    Type Description                     Count                   Percent
+              #NAME?                        10                      0.51%
+                #R-2                         1                      0.05%
+                   0                         8                      0.41%
+                 1/F                        16                      0.82%
+           1/F FRONT                         2                      0.10%
+               1503B                         2                      0.10%
+                1A-4                         1                      0.05%
+           1ST FLOOR                         3                      0.15%
+                1ÔÂ2ÈÕ                         2                      0.10%
+                 2/F                         3                      0.15%
+           2ND FLOOR                         1                      0.05%
+                 3/F                         1                      0.05%
+           3/F FRONT                         1                      0.05%
+           3RD FLOOR                         1                      0.05%
+                 407                         2                      0.10%
+                   A                       346                     17.64%
+                A100                         1                      0.05%
+                A102                         2                      0.10%
+                A104                         2                      0.10%
+                   B                       191                      9.74%
+                 B-A                         5                      0.25%
+                B20H                         1                      0.05%
+            BASEMENT                         1                      0.05%
+               BLD 7                         2                      0.10%
+              BLDG 1                        12                      0.61%
+            BLDG 157                         3                      0.15%
+              BLDG 2                         1                      0.05%
+            BLDG 201                         1                      0.05%
+            BLDG 229                         2                      0.10%
+              BLDG 3                         4                      0.20%
+             BLDG 3E                         4                      0.20%
+             BLDG 3F                         2                      0.10%
+            BLDG 449                         3                      0.15%
+              BLDG A                         1                      0.05%
+              BLDG B                         1                      0.05%
+              BLDG C                         1                      0.05%
+              BLDG D                         1                      0.05%
+              BLDG E                         1                      0.05%
+             BLDG. 3                         1                      0.05%
+          BSM OFFICE                         1                      0.05%
+                   C                       226                     11.52%
+                 C-1                        18                      0.92%
+                 C-2                         2                      0.10%
+              C-2001                         9                      0.46%
+                 C-4                         1                      0.05%
+                  C1                         2                      0.10%
+                C100                         4                      0.20%
+                C101                         4                      0.20%
+                C102                        11                      0.56%
+                C103                         3                      0.15%
+                C132                         4                      0.20%
+           CHILD DEV                         1                      0.05%
+               CML A                         1                      0.05%
+               COM'L                         3                      0.15%
+           COM'L 1/F                         1                      0.05%
+               COM-1                         1                      0.05%
+               COM-2                         3                      0.15%
+                COML                         1                      0.05%
+               COMM'                         1                      0.05%
+          COMMERCIAL                        10                      0.51%
+               COMML                        43                      2.19%
+             COMML 1                         3                      0.15%
+             COMML-1                         2                      0.10%
+             COMML-2                         2                      0.10%
+             COMML-3                         4                      0.20%
+          COMMON ARE                         1                      0.05%
+                CU-2                         1                      0.05%
+                CU-3                         2                      0.10%
+          Commercial                         8                      0.41%
+                   D                       135                      6.88%
+                  D3                         1                      0.05%
+                  D4                         1                      0.05%
+                   E                        92                      4.69%
+                EAST                         2                      0.10%
+                   F                        78                      3.98%
+                 FC1                         1                      0.05%
+           FRNT BLDG                         9                      0.46%
+          FRNT ENTRA                         2                      0.10%
+          FRNT RIGHT                         4                      0.20%
+               FRONT                        12                      0.61%
+          FRONT BLDG                        23                      1.17%
+          FRONT UNIT                        10                      0.51%
+                   G                        36                      1.84%
+                GPHA                         2                      0.10%
+              Garage                        13                      0.66%
+                   H                        23                      1.17%
+              HMETER                         1                      0.05%
+                 HOA                        85                      4.33%
+                   I                         1                      0.05%
+                   J                        19                      0.97%
+                   K                        10                      0.51%
+                   L                         5                      0.25%
+          LEAS OFFIC                         6                      0.31%
+           LEASE OFF                         2                      0.10%
+             LEVEL 4                         1                      0.05%
+           LEVEL ONE                         1                      0.05%
+               LOWER                         7                      0.36%
+          LOWER COML                         2                      0.10%
+          LOWER UNIT                         4                      0.20%
+                   M                         8                      0.41%
+                  M1                         3                      0.15%
+                M101                         1                      0.05%
+                M202                         2                      0.10%
+                M301                         6                      0.31%
+              MIDDLE                         5                      0.25%
+                   N                        18                      0.92%
+                   O                         8                      0.41%
+              OFFICE                         2                      0.10%
+          OFFICE 2/F                         2                      0.10%
+                   P                        13                      0.66%
+            PARCEL A                         1                      0.05%
+             PARKING                         2                      0.10%
+                  PH                         2                      0.10%
+                PH C                         1                      0.05%
+                PH-1                         8                      0.41%
+                PH-4                         1                      0.05%
+                 PH1                         1                      0.05%
+                PH1A                         2                      0.10%
+                PH1C                         2                      0.10%
+                PH1E                         1                      0.05%
+                PH2B                        10                      0.51%
+              PIER 1                         1                      0.05%
+              PIER 2                         1                      0.05%
+              PIER 3                         1                      0.05%
+            Parcel A                         1                      0.05%
+            Parcel B                         1                      0.05%
+            Parcel C                         1                      0.05%
+            Parcel D                         1                      0.05%
+                   R                        14                      0.71%
+                 R-1                         6                      0.31%
+                REAR                        11                      0.56%
+           REAR BLDG                        23                      1.17%
+            REAR G/F                         3                      0.15%
+           REAR UNIT                         7                      0.36%
+               RES'L                         1                      0.05%
+          RESDL/REAR                         1                      0.05%
+             RESID'L                        33                      1.68%
+           RESIDENCE                         1                      0.05%
+          RESIDENTIA                         7                      0.36%
+          RESIDL 3/F                         3                      0.15%
+            RETAIL 1                         5                      0.25%
+            RETAIL 2                         1                      0.05%
+                   S                         8                      0.41%
+               STORE                         1                      0.05%
+          STUDIO/TEC                         1                      0.05%
+                   T                        16                      0.82%
+           TENTATIVE                         2                      0.10%
+                 TH1                         5                      0.25%
+                 TH2                         2                      0.10%
+             THEATRE                         4                      0.20%
+                 TOP                         1                      0.05%
+                   U                         1                      0.05%
+               U-PH3                         1                      0.05%
+          UP FRT BLD                         1                      0.05%
+               UPPER                        23                      1.17%
+          UPPER LEVE                         1                      0.05%
+          UPPER UNIT                         7                      0.36%
+          UPPR COMML                         5                      0.25%
+             UTILITY                         1                      0.05%
+                   W                        43                      2.19%
+                W122                         1                      0.05%
+                WEST                         8                      0.41%
+                   Y                         3                      0.15%

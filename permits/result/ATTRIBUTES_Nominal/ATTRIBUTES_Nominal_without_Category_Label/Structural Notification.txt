@@ -1,0 +1,3 @@
+frequence of Structural Notification attribute
+    Type Description                     Count                   Percent
+                   Y                      6922                    100.00%

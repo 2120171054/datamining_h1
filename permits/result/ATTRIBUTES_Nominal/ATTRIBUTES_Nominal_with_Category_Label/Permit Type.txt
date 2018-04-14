@@ -1,0 +1,10 @@
+frequence of Permit Type attribute
+     Value                              Type Description           Count         Percent
+         1                              new construction             349            0.18%
+         2                   new construction wood frame             950            0.48%
+         3              additions alterations or repairs           14663            7.37%
+         4                                  sign - erect            2892            1.45%
+         5           grade or quarry or fill or excavate              91            0.05%
+         6                                   demolitions             600            0.30%
+         7                          wall or painted sign             511            0.26%
+         8                        otc alterations permit          178844           89.92%

@@ -1,0 +1,8 @@
+frequence of Existing Construction Type attribute
+     Value                              Type Description           Count         Percent
+         1                                 constr type 1           28072           14.11%
+         2                                 constr type 2            4068            2.05%
+         3                                 constr type 3            9663            4.86%
+         4                                 constr type 4             381            0.19%
+         5                                wood frame (5)          113350           56.99%
+       nan                                                         43366           21.80%

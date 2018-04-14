@@ -1,0 +1,3 @@
+frequence of Site Permit attribute
+    Type Description                     Count                   Percent
+                   Y                      5359                    100.00%

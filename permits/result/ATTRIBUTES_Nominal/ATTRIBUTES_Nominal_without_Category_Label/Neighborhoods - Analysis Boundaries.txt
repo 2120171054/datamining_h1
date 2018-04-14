@@ -1,0 +1,43 @@
+frequence of Neighborhoods - Analysis Boundaries attribute
+    Type Description                     Count                   Percent
+Bayview Hunters Point                      5669                      2.88%
+      Bernal Heights                      6067                      3.08%
+ Castro/Upper Market                      8527                      4.32%
+           Chinatown                      3765                      1.91%
+           Excelsior                      3072                      1.56%
+Financial District/South Beach                     21816                     11.06%
+           Glen Park                      2637                      1.34%
+    Golden Gate Park                        64                      0.03%
+      Haight Ashbury                      5798                      2.94%
+        Hayes Valley                      5489                      2.78%
+      Inner Richmond                      4458                      2.26%
+        Inner Sunset                      5776                      2.93%
+           Japantown                       700                      0.36%
+           Lakeshore                      1308                      0.66%
+        Lincoln Park                        49                      0.02%
+   Lone Mountain/USF                      3358                      1.70%
+              Marina                      8244                      4.18%
+        McLaren Park                        46                      0.02%
+             Mission                     14681                      7.45%
+         Mission Bay                      2287                      1.16%
+            Nob Hill                      6009                      3.05%
+          Noe Valley                      7844                      3.98%
+         North Beach                      4054                      2.06%
+Oceanview/Merced/Ingleside                      2654                      1.35%
+       Outer Mission                      2242                      1.14%
+      Outer Richmond                      7854                      3.98%
+     Pacific Heights                      8508                      4.31%
+             Portola                      1433                      0.73%
+        Potrero Hill                      4293                      2.18%
+            Presidio                        51                      0.03%
+    Presidio Heights                      4084                      2.07%
+        Russian Hill                      5495                      2.79%
+            Seacliff                       992                      0.50%
+     South of Market                      7572                      3.84%
+     Sunset/Parkside                     10207                      5.18%
+          Tenderloin                      4783                      2.43%
+     Treasure Island                        81                      0.04%
+          Twin Peaks                      1702                      0.86%
+   Visitacion Valley                       900                      0.46%
+  West of Twin Peaks                      8739                      4.43%
+    Western Addition                      3867                      1.96%

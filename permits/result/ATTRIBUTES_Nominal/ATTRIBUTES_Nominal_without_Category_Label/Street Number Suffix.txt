@@ -1,0 +1,20 @@
+frequence of Street Number Suffix attribute
+    Type Description                     Count                   Percent
+                   0                         1                      0.05%
+                   A                      1501                     67.73%
+                   B                       291                     13.13%
+                   C                        56                      2.53%
+                   D                        11                      0.50%
+                   E                        28                      1.26%
+                   F                        24                      1.08%
+                   G                        12                      0.54%
+                   H                        11                      0.50%
+                   I                         7                      0.32%
+                   J                         9                      0.41%
+                   K                        11                      0.50%
+                   L                        10                      0.45%
+                   N                         2                      0.09%
+                   P                         3                      0.14%
+                   R                        10                      0.45%
+                   V                       228                     10.29%
+                   ½                         1                      0.05%

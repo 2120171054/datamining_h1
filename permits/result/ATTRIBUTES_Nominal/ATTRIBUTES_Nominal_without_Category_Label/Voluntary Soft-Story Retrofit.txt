@@ -1,0 +1,3 @@
+frequence of Voluntary Soft-Story Retrofit attribute
+    Type Description                     Count                   Percent
+                   Y                        35                    100.00%
